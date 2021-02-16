@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="shorturl@shorturl.cejeaa4qmp8o.ap-south-1.rds.amazonaws.com" uuid="37e52fd5-2ac1-40bf-b63d-74eb69e07340">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://shorturl.cejeaa4qmp8o.ap-south-1.rds.amazonaws.com:3306/shorturl</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
